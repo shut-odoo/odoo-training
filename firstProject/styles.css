@@ -1,0 +1,29 @@
+img{
+	margin: 20px;
+	border: 2px solid;
+}
+table{
+	border: 2px solid;
+	width:100%;
+	border-collapse: seperate;
+}
+.row3 td,.row31 td {
+	border: 2px solid;
+	border-radius: 25px;
+	border-color: purple;
+	background-color: lightgray;
+}
+
+
+.name{
+	width:70%;
+}
+
+input, label{
+	margin: 10px;
+}
+
+button{
+	margin: 10px;
+	background-color: aquamarine;
+}
